@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xAbb43674D2ff0BC42b575f5bEd2f1e6993Dc175c",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xabb43674d2ff0bc42b575f5bed2f1e6993dc175c",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Circle Geometry",
+  "SYMBOL": "CG",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.0001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/circlegeometry",
+  "SHOW_BACKGROUND": true
+}
