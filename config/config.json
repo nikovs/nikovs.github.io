@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xAbb43674D2ff0BC42b575f5bEd2f1e6993Dc175c",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xabb43674d2ff0bc42b575f5bed2f1e6993dc175c",
+  "CONTRACT_ADDRESS": "0xEDA6B3b34EfeD1B25ac8c213257F1B5ef55Ba1EC",
+  "SCAN_LINK": "https://polygonscan.com/address/0xeda6b3b34efed1b25ac8c213257f1b5ef55ba1ec",
   "NETWORK": {
-    "NAME": "Rinkeby",
-    "SYMBOL": "ETH",
-    "ID": 4
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
   },
   "NFT_NAME": "Circle Geometry",
   "SYMBOL": "CG",
-  "MAX_SUPPLY": 100,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.0001,
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/circlegeometry",
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/circle-geometry-v2",
   "SHOW_BACKGROUND": true
 }
